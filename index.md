@@ -9,3 +9,7 @@
 ## Lego
 
 [![Thumbnail of Lego logo](images/Lego-logo.jpeg)](https://www.lego.com/en-us/)
+
+## Minecraft
+
+[![Thumbnail of Minecraft logo](images/mine-logo.png)](https://www.minecraft.net/en-us)
