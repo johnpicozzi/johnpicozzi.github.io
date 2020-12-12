@@ -1,4 +1,4 @@
-## Beylblades
+## Beyblades
 
 [![Thumbnail of Beyblade Logo](images/bbr-slider-logo.png)](https://usa.beyblade.com/)
 
