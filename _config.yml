@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+  theme: jekyll-theme-cayman
+
+  title: JJ's Super Site
+  description: The life and times of awesomeness
