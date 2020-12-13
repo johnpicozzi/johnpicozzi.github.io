@@ -1,3 +1,7 @@
+[Home](index.md) |
+[Videos](videos.md)
+
+
 ## Beyblades
 
 [![Thumbnail of Beyblade Logo](images/bbr-slider-logo.png)](https://usa.beyblade.com/)
